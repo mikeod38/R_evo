@@ -9,5 +9,6 @@ ybin<-as.DNAbin(y)
 
 require(ape)
 library(pegas)
+tajima.test(ybin)
 
 
