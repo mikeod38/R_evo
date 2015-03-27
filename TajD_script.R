@@ -11,4 +11,5 @@ require(ape)
 library(pegas)
 tajima.test(ybin)
 
+plot(x)
 
